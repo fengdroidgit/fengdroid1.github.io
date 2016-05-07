@@ -14,7 +14,7 @@ owner:
   bio:            "Hello Jekyll"
   email:          kevinf_sun@163.com
   # Social networking links used in footer. Update and remove as you like.
-  github:         
+  github:	  https://github.com/fengdroid/
   # google plus id, include the '+', eg +mmistakes
   google_plus:
 
